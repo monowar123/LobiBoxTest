@@ -1,0 +1,98 @@
+﻿
+.html-containar {
+    position:absolute !important;
+    left: 0px;
+    bottom: 0px;
+}
+
+
+.glyphicon-none:before {
+    content: "\2122";
+    color: transparent !important;
+}
+
+
+/*-----------------------Button---------------------------*/
+.btn-info, .btn-danger, .btn-success, .btn-warning, .btn-default{
+    width:90px;
+    height:35px;
+    background-color:#004F8F;
+    border-radius:6px;
+    border:2px solid #00467F;
+    outline:none;
+}
+
+.btn-info:active, .btn-danger:active, .btn-success:active, .btn-warning:active, .btn-default:active{
+    outline:none;
+}
+
+.btn-info:focus, .btn-danger:focus, .btn-success:focus, .btn-warning:focus, .btn-default:focus{
+    background-color:#004F8F;
+    border:2px solid #FFA800;
+    outline:none;
+}
+
+.btn-info:focus:hover, .btn-danger:focus:hover, .btn-success:focus:hover, .btn-warning:focus:hover, .btn-default:focus:hover{
+    background-color:#0060AF;
+    border:2px solid #FFA800;
+    outline:none;
+}
+
+.btn-info:hover, .btn-danger:hover, .btn-success:hover, .btn-warning:hover, .btn-default:hover{
+    background-color:#0060AF;
+    border:2px solid #00589F;
+    outline:none;
+}
+
+/*-----------------------Header---------------------------*/
+.lobibox.lobibox-confirm .lobibox-header {
+    background-color: rgba(255, 255, 255, 0.98);
+    border-bottom:1px solid #004F8F;
+    color: black;
+}
+
+.lobibox.lobibox-success .lobibox-header {
+    background-color: rgba(255, 255, 255, 0.98);
+    border-bottom:1px solid #004F8F;
+    color: black;
+}
+
+.lobibox.lobibox-error .lobibox-header {
+    background-color: rgba(255, 255, 255, 0.98);
+    border-bottom:1px solid #004F8F;
+    color: black;
+}
+
+.lobibox.lobibox-info .lobibox-header {
+    background-color: rgba(255, 255, 255, 0.98);
+    border-bottom:1px solid #004F8F;
+    color: black;
+}
+
+.lobibox.lobibox-warning .lobibox-header {
+    background-color: rgba(255, 255, 255, 0.98);
+    border-bottom:1px solid #004F8F;
+    color: black;
+}
+
+/*-----------------------Footer---------------------------*/
+.lobibox.lobibox-confirm .lobibox-footer {
+  background-color: rgba(255, 255, 255, 0.98);
+}
+
+.lobibox.lobibox-success .lobibox-footer {
+  background-color: rgba(255, 255, 255, 0.98);
+}
+
+.lobibox.lobibox-error .lobibox-footer {
+  background-color: rgba(255, 255, 255, 0.98);
+}
+
+.lobibox.lobibox-info .lobibox-footer {
+  background-color: rgba(255, 255, 255, 0.98);
+}
+
+.lobibox.lobibox-warning .lobibox-footer {
+  background-color: rgba(255, 255, 255, 0.98);
+}
+

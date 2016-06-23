@@ -1,0 +1,10 @@
+F:\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.dll
+F:\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.pdb
+F:\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.csprojResolveAssemblyReference.cache
+F:\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.dll
+F:\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.pdb
+F:\My_Task\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.dll
+F:\My_Task\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.pdb
+F:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.dll
+F:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.pdb
+F:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.csprojResolveAssemblyReference.cache

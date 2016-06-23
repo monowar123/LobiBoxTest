@@ -1,0 +1,20 @@
+﻿.glyphicon-none:before {
+    content: "\2122";
+    color: transparent !important;
+}
+
+.btn-info, .btn-danger, .btn-success, .btn-warning, .btn-default{
+    width:80px;
+    background-color:black;
+    border-color:#20AF73;
+}
+
+.btn-info:focus, .btn-danger:focus, .btn-success:focus, .btn-warning:focus, .btn-default:focus{
+    background-color:black;
+    border-color:#20AF73;
+}
+
+.btn-info:hover, .btn-danger:hover, .btn-success:hover, .btn-warning:hover, .btn-default:hover{
+    background-color:#1D9F69;
+    border-color:#1D9F69;
+}
