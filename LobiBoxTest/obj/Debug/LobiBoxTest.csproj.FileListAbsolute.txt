@@ -8,3 +8,8 @@ F:\My_Task\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.pdb
 F:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.dll
 F:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.pdb
 F:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.csprojResolveAssemblyReference.cache
+E:\My_Task\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.dll
+E:\My_Task\LobiBoxTest\LobiBoxTest\bin\LobiBoxTest.pdb
+E:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.csprojResolveAssemblyReference.cache
+E:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.dll
+E:\My_Task\LobiBoxTest\LobiBoxTest\obj\Debug\LobiBoxTest.pdb

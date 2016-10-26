@@ -6,17 +6,13 @@
 <head runat="server">
     <title></title>
 
-    <script
-		src="https://code.jquery.com/jquery-2.2.3.min.js"
-		integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="
-		crossorigin="anonymous">
-    </script>
+    <script src="lib/jquery.1.11.min.js"></script>
     
     <link href="css/lobibox.css" rel="stylesheet" />
     <link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/animate.css" rel="stylesheet" />
     
-    <%--<script src="lib/jquery.1.11.min.js"></script>--%>
+
     <script src="js/lobibox.js"></script>
 
 

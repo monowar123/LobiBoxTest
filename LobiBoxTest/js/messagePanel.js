@@ -6,8 +6,8 @@
 //    };
 //}(jQuery));
 
-(function ( $ ) {
-    $.messagePanel = function () {
+//(function ( $ ) {
+var messagePanel = function () {
 
         this.title = "Title";   				//title of the message box
         this.description = "Description...";	//Message content
@@ -62,12 +62,16 @@
         //}
 
 
-        HitMessagePanel(this);
+        this.show = function () {
+            HitMessagePanel(this);
+        }
 
-        return this;
+        //HitMessagePanel(this);
+
+        //return this;
 
     };
-}(jQuery));
+//}(jQuery));
 
 function HitMessagePanel(settings) {
 

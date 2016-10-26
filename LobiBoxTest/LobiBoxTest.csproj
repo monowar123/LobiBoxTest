@@ -95,7 +95,6 @@
     <Content Include="sounds\sound4.ogg" />
     <Content Include="sounds\sound5.ogg" />
     <Content Include="sounds\sound6.ogg" />
-    <Content Include="bootstrap\dist\css\bootstrap.css.map" />
     <Content Include="bootstrap\dist\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="bootstrap\dist\fonts\glyphicons-halflings-regular.woff" />
@@ -172,6 +171,7 @@
     <Content Include="bootstrap\less\utilities.less" />
     <Content Include="bootstrap\less\variables.less" />
     <Content Include="bootstrap\less\wells.less" />
+    <Content Include="bootstrap\dist\css\bootstrap.css.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -179,6 +179,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

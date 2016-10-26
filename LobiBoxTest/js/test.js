@@ -5,31 +5,33 @@ $(document).ready(function () {
     document.getElementById('btnChange').onclick = changeContainar;
     
 
-    //panel = new messagePanel();
+    panel = new messagePanel();
 
     //panel.loadFile(panel.cssFile, "css");
 });
 
 function myFunc() {
 
-    //panel.title = 'My Title';
-    //panel.description = 'Message goes here';
-    //panel.mBox.buttons.push({ type: 'ok', text: 'Ok' });
-    //panel.mBox.buttons.push({ type: 'cancel', text: 'Cancel' });
+    panel.title = 'My Title';
+    panel.description = 'Message goes here';
+    panel.mBox.buttons.push({ type: 'ok', text: 'Ok' });
+    panel.mBox.buttons.push({ type: 'cancel', text: 'Cancel' });
 
-    //panel.mBox.callback = callBackFunction;
+    panel.mBox.callback = callBackFunction;
 
-    //var e = document.getElementById("selectOption");
-    //panel.type = e.options[e.selectedIndex].value;
+    var e = document.getElementById("selectOption");
+    panel.type = e.options[e.selectedIndex].value;
 
-    //e = document.getElementById("selectOption2");
-    //panel.behaviour = e.options[e.selectedIndex].value;
+    e = document.getElementById("selectOption2");
+    panel.behaviour = e.options[e.selectedIndex].value;
 
     //panel.loadFile("css/customStyle1.css", "css");
 
     //panel.show("hello", "how are you", "error", "messagebox", callBackFunction);
 
-    $.messagePanel();
+    panel.show();
+
+    //jQuery.messagePanel();
 }
 
 function callBackFunction(e) {
